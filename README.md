@@ -1,4 +1,4 @@
 # studyspace-devs.github.io
 studyspace content creation platform.
 
-Private access.
+Public access, will it deploy now?
